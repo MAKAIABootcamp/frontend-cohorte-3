@@ -4,12 +4,16 @@ const containerCards = document.getElementById("containerCards");
 
 const URL_API = "https://pokeapi.co/api/v2/pokemon";
 
-const listPokemons = [];
-
-const getPokemons = async (url) => {
+const getPokemons = async (url, searchTerm = "") => {
+  const listPokemons = [];
   const response = await axios.get(url);
-  console.log(response.data.results);
-  response.data.results.forEach(async (pokemom, index) => {
+  const pokemons = searchTerm
+    ? response.data.results.filter((pokemon) =>
+        pokemon.name.toLowerCase().includes(searchTerm.toLowerCase())
+      )
+    : response.data.results;
+  console.log(pokemons);
+  pokemons.forEach(async (pokemom, index) => {
     const dataPokemon = await axios.get(pokemom.url);
     const newPokemon = {
       name: pokemom.name,
@@ -20,7 +24,7 @@ const getPokemons = async (url) => {
       abilities: dataPokemon.data.abilities,
     };
     listPokemons.push(newPokemon);
-    if (index + 1 === response.data.results.length) {
+    if (index + 1 === pokemons.length) {
       console.log(listPokemons);
       renderPokemons(listPokemons);
     }
@@ -107,11 +111,12 @@ search.addEventListener("submit", async (event) => {
     console.log(searchTerm);
     console.log(typeof searchTerm);
 
-    const searchURL = `${URL_API}/${searchTerm}`;
-    const pokemon = await getData(searchURL);
-    console.log(pokemon);
-      if (pokemon) {
-        renderPokemon(pokemon);
-    }
+    // const searchURL = `${URL_API}/${searchTerm}`;
+    // const pokemon = await getData(searchURL);
+    // console.log(pokemon);
+    // if (pokemon) {
+    //   renderPokemon(pokemon);
+    // }
+    getPokemons(URL_API, searchTerm);
   }
 });
