@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "Arroz (500 gr)",
+      "price": "5000",
+      "category": "food",
+      "id": 2
+    },
+    {
+      "name": "Jamón",
+      "price": "20000",
+      "category": "food",
+      "id": 3
+    },
+    {
+      "name": "Crema dental",
+      "price": "10000",
+      "category": "clean",
+      "id": 4
+    },
+    {
+      "name": "Jabón",
+      "price": "20000",
+      "category": "clean",
+      "id": 5
+    },
+    {
+      "name": "Manzanas",
+      "price": "15000",
+      "category": "food",
+      "id": 6
+    }
+  ],
+  "users": []
+}
