@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "name": "Arroz (500 gr)",
+      "price": "5000",
+      "category": "food",
+      "id": 2
+    },
+    {
+      "name": "Jamón",
+      "price": "20000",
+      "category": "food",
+      "id": 3
+    },
+    {
+      "name": "Crema dental",
+      "price": "20000",
+      "category": "food",
+      "id": 4
+    },
+    {
+      "name": "Jabón",
+      "price": "20000",
+      "category": "clean",
+      "id": 5
+    },
+    {
+      "name": "Pan",
+      "price": "2000",
+      "category": "food",
+      "id": 6
+    },
+    {
+      "name": "paleta",
+      "price": "2000",
+      "category": "food",
+      "id": 8
+    },
+    {
+      "name": "Mango",
+      "price": "3000",
+      "category": "food",
+      "id": 9
+    },
+    {
+      "name": "Ciruelas",
+      "price": "5000",
+      "category": "food",
+      "id": 10
+    },
+    {
+      "name": "Toronja",
+      "price": "5000",
+      "category": "food",
+      "id": 11
+    },
+    {
+      "name": "Naranja",
+      "price": "5000",
+      "category": "food",
+      "id": 12
+    }
+  ],
+  "users": []
+}
