@@ -1,0 +1,67 @@
+//Variables
+$color-primary: #00a8ff;
+$color-secondary: #9c88ff;
+$color-white: #f5f6fa;
+$color-success: #4cd137;
+$color-error: #c23616;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 300px;
+    height: 500px;
+    background-color: $color-primary;
+
+    &__title {
+        color: $color-white;
+
+        &:hover {
+            color: $color-secondary;
+        }
+    }
+
+    &__text {
+        font-size: 1.2rem;
+
+        &:hover {
+            font-size: 1.3rem;
+        }
+    }
+
+    &__item {
+        background-color: $color-secondary;
+    }
+}
+
+.navigation {
+    ul {
+        background-color: $color-secondary;
+
+        li {
+            font-style: italic;
+        }
+    }
+}
+
+@mixin theme($theme: $color-primary) {
+    background-color: $theme;
+    color: $color-white;
+    line-height: 1.7rem;
+    max-width: 500px;
+}
+
+.info {
+    @include theme($color-primary);
+}
+
+.success {
+    @include theme($color-success);
+}
+
+.error {
+    @include theme($color-error);
+}

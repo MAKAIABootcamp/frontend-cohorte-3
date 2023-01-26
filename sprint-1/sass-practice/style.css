@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 300px;
+  height: 500px;
+  background-color: #00a8ff;
+}
+.box__title {
+  color: #f5f6fa;
+}
+.box__title:hover {
+  color: #9c88ff;
+}
+.box__text {
+  font-size: 1.2rem;
+}
+.box__text:hover {
+  font-size: 1.3rem;
+}
+.box__item {
+  background-color: #9c88ff;
+}
+
+.navigation ul {
+  background-color: #9c88ff;
+}
+.navigation ul li {
+  font-style: italic;
+}
+
+.info {
+  background-color: #00a8ff;
+  color: #f5f6fa;
+  line-height: 1.7rem;
+  max-width: 500px;
+}
+
+.success {
+  background-color: #4cd137;
+  color: #f5f6fa;
+  line-height: 1.7rem;
+  max-width: 500px;
+}
+
+.error {
+  background-color: #c23616;
+  color: #f5f6fa;
+  line-height: 1.7rem;
+  max-width: 500px;
+}
+
+/*# sourceMappingURL=style.css.map */
