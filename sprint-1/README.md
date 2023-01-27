@@ -61,6 +61,7 @@
 2. [Libro Clean Code by Robert C. Martin](https://ns2.elhacker.net/descargas/manuales/Lenguajes%20de%20Programacion/Codigo%20limpio%20-%20Robert%20Cecil%20Martin.pdf)
 3. [Resumen Clean Code GitHub](https://github.com/andersontr15/clean-code-javascript-es#contenido)
 4. [Video de ¿cómo aplicar estilos a una landing page con SASS?](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/EvrNR9y1WopPqiM4g05iuZwB3EMHoR_QfwL9w_bs2uxHbQ?e=VZDa4Y)
+5. [Despliegue en railways](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/Efogqt40p8JFkuxrdHBPZ4kBNq-SYV7GR90lb2OlDXiieg?e=KOM5Al)
 ## Retos, Workshops y Proyecto 🤖
 1. [Workshop 1](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/ESbSMIbewtFPkkcjW724DDsBTymvy27TL8Dyloeqc4pxtw?e=ov54Y3)
 2. [Proyecto Sprint 1](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/EiVqj5jT3WNKmjot0GaQgRgB0Of_TO1Vtq8DEYnV5ucdhQ?e=x5nNRM): Fecha de entrega febrero 8 del 2023.
