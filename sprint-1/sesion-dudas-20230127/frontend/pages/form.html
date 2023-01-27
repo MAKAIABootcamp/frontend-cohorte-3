@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>Crear personaje</title>
+  </head>
+  <body>
+    <h1>Crear personaje</h1>
+    <a href="../index.html">Ir a home</a>
+    <form id="form">
+        <label for="name">Nombre</label>
+        <input id='name' type="text">
+        <label for="height">Altura</label>
+        <input id='height' type="number">
+        <label for="mass">Masa corporal</label>
+        <input id='mass' type="number">
+        <label for="hairColor">Color de cabello</label>
+        <input id='hairColor' type="text">
+        <label for="skinColor">Color de piel</label>
+        <input id='skinColor' type="text">
+        <label for="eyeColor">Color de ojos</label>
+        <input id='eyeColor' type="text">
+        <label for="birthYear">Fecha de cumpleaños</label>
+        <input id='birthYear' type="date">
+        <label for="gender">Género</label>
+        <select id='gender'>
+            <option value="">Selecciones una</option>
+            <option value="male">Masculo</option>
+            <option value="female">Femenino</option>
+            <option value="n/a">Ninguno de los anteriores</option>
+        </select>
+        <label for="specie">Especie</label>
+        <select id='specie'>
+            <option value="">Selecciones una</option>
+            <option value="androide">Androide</option>
+            <option value="human">Humano</option>
+            <option value="n/a">Ninguno de los anteriores</option>
+        </select>
+        <label for="image">Imagen</label>
+        <input id='image' type="text">
+        <button type="submit">Crear personaje</button>
+    </form>
+    <script src="../scripts/form.js" type="module"></script>
+  </body>
+</html>
