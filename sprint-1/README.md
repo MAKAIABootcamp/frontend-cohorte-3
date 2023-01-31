@@ -62,6 +62,9 @@
 4. ¿Cómo configurar Webpack & Babel en una app?
 5. ¿Cómo desplegar una app con Webpack & Babel en GitHub pages?
 6. [Repositorio del ejercicio en clase](https://github.com/hispanos/test-webpack-c3)✨
+### Sesión 9 CRUD con axios, SASS y Webpack & Babel
+1. [Repositorio del ejercicio en clase](https://github.com/hispanos/test-webpack-c3)✨
+2. [Archivo Figma del ejercicio](https://www.figma.com/file/ZVECch6CseNFlnPiGmbSBh/Block_Master?node-id=0%3A1&t=AN9GRbauwRU148sg-1)📱
 #### Recurso de estudio adicional
 1. [Guía para trabajo colaborativo en Git y GitHub](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EYYhJgmPncdKrspBUsNxBTcB14aXL9BaXikResKRfsiC6Q?e=3MZaQd)
 2. [Libro Clean Code by Robert C. Martin](https://ns2.elhacker.net/descargas/manuales/Lenguajes%20de%20Programacion/Codigo%20limpio%20-%20Robert%20Cecil%20Martin.pdf)
