@@ -20,5 +20,5 @@ const dateEnd = "03/02/2023"
 const relativeMonth = Duration.fromISO(dateStart).toObject();
 console.log(relativeMonth);
 
-const interval = Interval.fromDateTimes(dateStart, dateEnd);
-console.log(interval);
+// const interval = Interval.fromDateTimes(dateStart, dateEnd);
+// console.log(interval);
