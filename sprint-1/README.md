@@ -65,6 +65,9 @@
 ### Sesión 9 CRUD con axios, SASS y Webpack & Babel
 1. [Repositorio del ejercicio en clase](https://github.com/hispanos/test-webpack-c3)✨
 2. [Archivo Figma del ejercicio](https://www.figma.com/file/ZVECch6CseNFlnPiGmbSBh/Block_Master?node-id=0%3A1&t=AN9GRbauwRU148sg-1)📱
+### Sesión 10 Continuación CRUD con axios, SASS y Webpack & Babel
+1. [Repositorio del ejercicio en clase con Mailer](https://github.com/hispanos/test-webpack-c3) Part 1️⃣
+2. [Repositorio del ejercicio en clase con Whitney](https://github.com/WhitneySt/continuacion-session10-exercise) Part 2️⃣
 #### Recurso de estudio adicional
 1. [Guía para trabajo colaborativo en Git y GitHub](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EYYhJgmPncdKrspBUsNxBTcB14aXL9BaXikResKRfsiC6Q?e=3MZaQd)
 2. [Libro Clean Code by Robert C. Martin](https://ns2.elhacker.net/descargas/manuales/Lenguajes%20de%20Programacion/Codigo%20limpio%20-%20Robert%20Cecil%20Martin.pdf)
