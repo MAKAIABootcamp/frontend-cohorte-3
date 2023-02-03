@@ -116,6 +116,19 @@
       "specie": "androide",
       "image": "https://dam.smashmexico.com.mx/wp-content/uploads/2016/12/princesa-leia-organa-ejemplo-femenino.jpg",
       "id": 9
+    },
+    {
+      "name": "Ana María",
+      "height": "165",
+      "mass": "55",
+      "hairColor": "black",
+      "skinColor": "piel",
+      "eyeColor": "cafes",
+      "birthYear": "2023-02-01",
+      "gender": "female",
+      "specie": "human",
+      "image": "https://dam.smashmexico.com.mx/wp-content/uploads/2016/12/princesa-leia-organa-ejemplo-femenino.jpg",
+      "id": 10
     }
   ],
   "favoritos": []
