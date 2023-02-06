@@ -13,5 +13,15 @@
 #### [Repositorio de la continuación del ejercicio de Movie App](https://github.com/WhitneySt/continuacion-session10-exercise) 📱
 1. [Repositorio del miniback en GitHub](https://github.com/WhitneySt/miniback-test-webpack-c3)
 2. [Despliegue del miniback en Railway](https://miniback-test-webpack-c3-production.up.railway.app/favorites)
+### Sesión 12 React class components
+1. ¿Qué es un componente?
+2. ¿Qué son los componentes de clases de React?
+3. ¿Cuál es el ciclo de vida de los class components?
+4. ¿Cuáles son los métodos de ciclo de vida?
+5. ¿Qué son `props` y `state`?
+#### [Repositorio de la clase](https://github.com/hispanos/react-webpack-c3) ✨
 ## Material de apoyo
+1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
+2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
+3. [Documentación de React js - Beta](https://beta.es.reactjs.org/)
 ## Retos, workshops y Proyecto
