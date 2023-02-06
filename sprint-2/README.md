@@ -20,6 +20,9 @@
 4. ¿Cuáles son los métodos de ciclo de vida?
 5. ¿Qué son `props` y `state`?
 #### [Repositorio de la clase](https://github.com/hispanos/react-webpack-c3) ✨
+#### Sesión 3 Dudas, preguntas e inquietudes ⁉
+1. [Repositorio del miniback](https://github.com/WhitneySt/miniback-sesion3-dudas)
+2. [Repositorio del ejercicio](https://github.com/WhitneySt/session3-dudas)
 ## Material de apoyo
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
