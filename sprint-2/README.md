@@ -28,8 +28,27 @@
 1. ¿Qué es levantamiento de estado? 
 2. ¿Cómo y para qué hacerlo?
 #### [Repositorio del ejercicio en clase](https://github.com/Esteark/ClassComponentsClass) 🐱‍👤
-## Material de apoyo
+### Sesión 14 React Functional components
+1. ¿Qué son componentes funcionales?
+2. ¿Cuáles son las Lambdas function components?
+3. ¿Cuáles son los problemas que resuelven los Hooks?
+4. ¿Cuáles son las reglas de los Hooks?
+5. ¿Qué son Hooks?
+6. ¿Cuáles son los tipos de Hooks?
+7. ¿Cuáles son los ciclos de vida de un componente funcional (ó también llamados efectos secundarios)?
+#### Ejercicio práctico en clase
+1. [Repositorio del ejercicio en clase parte 1️⃣](https://github.com/hispanos/imc-react)
+2. [Repositorio del ejercicio en clase parte 2️⃣](https://github.com/AngieValgie/test-react)
+### Sesión 15 Workshop 3
+1. Construir una landing page responsiva
+2. Trabajo colaborativo con `Git Flow`
+3. Uso de React Functional Components
+4. Uso de `SASS`
+5. [Requisitos funcionales y técnicos 🐱‍🏍](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EbdTzcMRvPpGjuDIjtbvWXIB7dkL7Ha1KvdGncljex2JqQ?e=4BJ0J7)
+## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
 3. [Documentación de React js - Beta](https://beta.es.reactjs.org/)
-## Retos, workshops y Proyecto
+## Retos, workshops y Proyecto 🤖
+1. [Workshop 3](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EbdTzcMRvPpGjuDIjtbvWXIB7dkL7Ha1KvdGncljex2JqQ?e=4BJ0J7): Fecha de entrega 13 de febrero
+2. [Proyecto Sprint 2](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/Em6wH6d-B3ROuf_q87_5thIBOGdTtO2-BZyWOVV_3p-MNQ?e=CLQVqN): Fecha de entrega 01 de marzo 
