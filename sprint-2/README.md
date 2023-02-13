@@ -45,6 +45,19 @@
 3. Uso de React Functional Components
 4. Uso de `SASS`
 5. [Requisitos funcionales y técnicos 🐱‍🏍](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EbdTzcMRvPpGjuDIjtbvWXIB7dkL7Ha1KvdGncljex2JqQ?e=4BJ0J7)
+### Sesión 16 UseEffect Hook & React Router DOM v6
+1. ¿Qué es `useEffect()`?
+2. ¿Qué es efecto secundario o side-effect?
+3. ¿Qué son los custom hooks?
+4. ¿Qué es React Router v6?
+5. ¿Cómo instalar React Router v6?
+6. ¿Cómo implementar React Router v6?
+7. Layout Routes  o diseño de rutas y rutas anidadas
+8. Ruta índice
+9. Rutas sin coincidencia
+10. Rutas dinámicas
+#### [Repositorio de la clase](https://github.com/hispanos/test-react-router)🐱‍👤
+
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
