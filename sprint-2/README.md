@@ -57,7 +57,10 @@
 9. Rutas sin coincidencia
 10. Rutas dinámicas
 #### [Repositorio de la clase](https://github.com/hispanos/test-react-router)🐱‍👤
-
+### Sesión 17 Ejercicio React Router DOM v6 & Despliegue en Vercel
+1. [Repositorio del ejercicio en clase](https://github.com/hispanos/test-blog-react)
+2. [Repositorio del minibackend](https://github.com/hispanos/back-blog)
+3. [Despliegue del ejercicio en Vercel](https://blog-react-eosin.vercel.app/)
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
