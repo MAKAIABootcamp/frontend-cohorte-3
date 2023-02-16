@@ -61,6 +61,16 @@
 1. [Repositorio del ejercicio en clase](https://github.com/hispanos/test-blog-react)
 2. [Repositorio del minibackend](https://github.com/hispanos/back-blog)
 3. [Despliegue del ejercicio en Vercel](https://blog-react-eosin.vercel.app/)
+### Sesión 18 Hooks de React Router DOM
+1. Conociendo los Hooks
+  - `useParams()`
+  - `useLocation()`
+  - `useSearchParams()`
+  - `useNavigate()`
+  - `useOutletContext()`
+  - `useMatch()`
+ 2. [Repositorio del ejercicio en clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/test-blog-react)
+ 3. [Repositorio del ejercicio ](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/back-blog)
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
