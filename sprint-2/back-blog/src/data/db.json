@@ -1,0 +1,35 @@
+{
+  "news": [
+    {
+      "id": 2,
+      "title": "Chat GPT: ¿Nos dejará sin empleo?",
+      "description": "Cuesta 20 USD y te puede crear una App de React en menos de 2 minutos",
+      "image": "https://i.blogs.es/d0a067/chat/1366_2000.jpeg",
+      "date": "2023/02/14",
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "Noticia 3 Nuevo!!",
+      "description": "Alguna descripción última primicia!!",
+      "image": "https://reactjs.org/logo-og.png",
+      "date": "2023-02-16",
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "title": "Otra noticia Nueva!!!",
+      "description": "Alguna descripción Alerta atención!",
+      "image": "https://reactjs.org/logo-og.png",
+      "date": "2023-02-16",
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Pedrito Perez",
+      "phone": "3100000000"
+    }
+  ]
+}
