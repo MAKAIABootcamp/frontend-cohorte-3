@@ -23,13 +23,43 @@
       "image": "https://reactjs.org/logo-og.png",
       "date": "2023-02-16",
       "authorId": 1
+    },
+    {
+      "title": "Alerta New",
+      "description": "Alerta atención",
+      "image": "https://st3.depositphotos.com/1605004/13946/v/600/depositphotos_139463384-stock-illustration-megaphone-hand-business-concept-with.jpg",
+      "date": "2023-02-17",
+      "id": 5
+    },
+    {
+      "title": "adfhaldkjfa",
+      "description": "asfasfasdf",
+      "image": "https://st3.depositphotos.com/1605004/13946/v/600/depositphotos_139463384-stock-illustration-megaphone-hand-business-concept-with.jpg",
+      "date": "2023-02-17",
+      "id": 6
+    },
+    {
+      "title": "Alerta New",
+      "description": "adsfvjadnfvlda",
+      "image": "https://st3.depositphotos.com/1605004/13946/v/600/depositphotos_139463384-stock-illustration-megaphone-hand-business-concept-with.jpg",
+      "date": "2023-02-17",
+      "id": 7
+    },
+    {
+      "title": "Alerta atención",
+      "description": "Increíbles News",
+      "image": "https://st3.depositphotos.com/1605004/13946/v/600/depositphotos_139463384-stock-illustration-megaphone-hand-business-concept-with.jpg",
+      "date": "2023-02-17",
+      "id": 8
     }
   ],
   "authors": [
     {
       "id": 1,
       "name": "Pedrito Perez",
-      "phone": "3100000000"
+      "phone": "3100000000",
+      "user": "Pedrito",
+      "password": "12345"
     }
   ]
 }

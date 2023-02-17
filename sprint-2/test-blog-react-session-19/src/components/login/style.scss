@@ -1,0 +1,20 @@
+.login {
+    &__container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #b8a9f3;
+    }
+
+    &__form {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        align-items: center;
+        padding: 80px;
+        background-color: #9880fa65;
+        border-radius: 20px;
+    }
+}

@@ -1,0 +1,11 @@
+.table__action {
+    cursor: pointer;
+
+    &--edit {
+        color: var(--bs-primary);
+    }
+
+    &--delete {
+        color: var(--bs-danger);
+    }
+}
