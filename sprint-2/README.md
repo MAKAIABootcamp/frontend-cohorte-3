@@ -79,7 +79,7 @@
 ### Sesión 20 Ejercicio Dudas & Preguntas
 1. ¿Cómo configurar los datos de archivo de.json (endpoint y miniback)?
 2. ¿Cómo mapear los botones para selección de asientos?
-3. ¿Cómo desabilitar los asientos que está ocupados?
+3. ¿Cómo deshabilitar los asientos que está ocupados?
 4. ¿Cómo seleccionar y deseleccionar los asientos según una cantidad límite de pasajeros?
 5. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos)🐱‍👤
 ## Material de apoyo 🐱‍👓
@@ -89,3 +89,4 @@
 ## Retos, workshops y Proyecto 🤖
 1. [Workshop 3](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EbdTzcMRvPpGjuDIjtbvWXIB7dkL7Ha1KvdGncljex2JqQ?e=4BJ0J7): Fecha de entrega 13 de febrero
 2. [Proyecto Sprint 2](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/Em6wH6d-B3ROuf_q87_5thIBOGdTtO2-BZyWOVV_3p-MNQ?e=CLQVqN): Fecha de entrega 01 de marzo 
+3. [Workshop 4](): Fecha de entrega y sustentación 24 de febrero
