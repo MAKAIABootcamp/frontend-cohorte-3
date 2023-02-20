@@ -1,0 +1,11 @@
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+.button{
+    background-color: cadetblue;
+}
+
+.button--selected{
+    background-color:chartreuse;
+}
