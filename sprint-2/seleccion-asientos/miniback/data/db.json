@@ -1,0 +1,69 @@
+{
+  "vuelos": [],
+  "pasajeros": [
+    {
+      "id": 1,
+      "idVuelo": 2,
+      "name": "Adelia",
+      "email": "adelia@gmail.com"
+    }
+  ],
+  "asientos": [
+    {
+      "id": 1,
+      "idVuelo": 2,
+      "code": "A1",
+      "isAvailable": false,
+      "idPassanger": 3
+    },
+    {
+      "id": 2,
+      "idVuelo": 2,
+      "code": "A2",
+      "isAvailable": true,
+      "idPassanger": ""
+    },
+    {
+      "id": 3,
+      "idVuelo": 2,
+      "code": "A3",
+      "isAvailable": true,
+      "idPassanger": ""
+    },
+    {
+      "id": 4,
+      "idVuelo": 2,
+      "code": "A4",
+      "isAvailable": false,
+      "idPassanger": 3
+    },
+    {
+      "id": 5,
+      "idVuelo": 2,
+      "code": "A5",
+      "isAvailable": true,
+      "idPassanger": ""
+    },
+    {
+      "id": 6,
+      "idVuelo": 2,
+      "code": "A6",
+      "isAvailable": true,
+      "idPassanger": ""
+    },
+    {
+      "id": 7,
+      "idVuelo": 2,
+      "code": "A7",
+      "isAvailable": true,
+      "idPassanger": ""
+    },
+    {
+      "id": 8,
+      "idVuelo": 2,
+      "code": "A8",
+      "isAvailable": true,
+      "idPassanger": ""
+    }
+  ]
+}
