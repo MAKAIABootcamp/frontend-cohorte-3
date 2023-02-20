@@ -79,7 +79,7 @@
 ### Sesión 20 Ejercicio Dudas & Preguntas
 1. ¿Cómo configurar los datos de archivo de.json (endpoint y miniback)?
 2. ¿Cómo mapear los botones para selección de asientos?
-3. ¿Cómo deshabilitar los asientos que está ocupados?
+3. ¿Cómo deshabilitar los asientos que están ocupados?
 4. ¿Cómo seleccionar y deseleccionar los asientos según una cantidad límite de pasajeros?
 5. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos)🐱‍👤
 ## Material de apoyo 🐱‍👓
