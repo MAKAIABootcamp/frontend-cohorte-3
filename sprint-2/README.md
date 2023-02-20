@@ -76,6 +76,12 @@
  2. ¿Cómo proteger rutas?
  3. ¿Cómo crear un CRUD en ReactJS?
  4. [Repositorio del ejercicio](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/test-blog-react-session-19)
+### Sesión 20 Ejercicio Dudas & Preguntas
+1. ¿Cómo configurar los datos de archivo de.json (endpoint y miniback)?
+2. ¿Cómo mapear los botones para selección de asientos?
+3. ¿Cómo desabilitar los asientos que está ocupados?
+4. ¿Cómo seleccionar y deseleccionar los asientos según una cantidad límite de pasajeros?
+5. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos)🐱‍👤
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
