@@ -82,6 +82,13 @@
 3. ¿Cómo deshabilitar los asientos que están ocupados?
 4. ¿Cómo seleccionar y deseleccionar los asientos según una cantidad límite de pasajeros?
 5. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos)🐱‍👤
+### Sesión 21 Workshop 4
+1. Corrigiendo el comportamiento indeseado en la selección de asientos: cuando la cantidad de asientos activos es igual a la cantidad de pasajeros y se desea deseleccionar un asiento activo.
+2. Construcción de un sitio web informativo sobre turismo espacial
+3. Emplear los hooks `useState()`, `useEffect()` y Hooks de React Router DOM v6
+4. Uso de enrutamiento dinámico, rutas anidadas (Layout Routes).
+5. Obtener la información de la página desde una FAKE API REST y mapearla en cada componente de la aplicación, según el diseño proporcionado. 
+6. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos) 🐱‍👤
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
