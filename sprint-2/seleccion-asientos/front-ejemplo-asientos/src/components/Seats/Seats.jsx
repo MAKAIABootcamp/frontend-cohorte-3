@@ -5,18 +5,26 @@ import "./seats.css";
 const Seats = ({ data = 3 }) => {
   const [seats, setSeats] = useState([]);
   const [selectedSeats, setSelectedSeats] = useState({});
-  const [numberPass, setNumberPass] = useState(data);
+  // const [numberPass, setNumberPass] = useState([]);
+  
+
 
   const handleSelectedSeats = (seat) => {
     setSelectedSeats({
       ...selectedSeats,
       [seat.code]: !selectedSeats[seat.code],
     });
-    const cont = numberPass - 1;
-    setNumberPass(cont);
+    // const cont = numberPass - 1;
+    // setNumberPass(cont);
     const arrayKeys = Object.keys(selectedSeats);
     const trueKeys = arrayKeys.filter((key) => selectedSeats[key]);
-    if (trueKeys.length === data) {
+    if (trueKeys.includes(seat.code) && trueKeys.length === data) {
+      setSelectedSeats({
+        ...selectedSeats,
+        [seat.code]: !selectedSeats[seat.code],
+      });
+    }
+    if (trueKeys.length === data && !trueKeys.includes(seat.code)) {
       setSelectedSeats({
         ...selectedSeats,
         [trueKeys[0]]: false,
