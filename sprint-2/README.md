@@ -89,6 +89,13 @@
 4. Uso de enrutamiento dinámico, rutas anidadas (Layout Routes).
 5. Obtener la información de la página desde una FAKE API REST y mapearla en cada componente de la aplicación, según el diseño proporcionado. 
 6. [Repositorio de la clase](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/seleccion-asientos) 🐱‍👤
+### Sesión 22 Hooks de Memoización
+1. ¿Qué es memoización?
+2. Cuál es la definición y cuándo emplear los siguientes hooks:
+    1. `useCallback()`
+    2. `useMemo()`
+    3. `React.Memo()`
+3. [Repositorio de ¿cómo trabajar con enrutamientos dinámicos?](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/ejercicio-sesion22)
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
