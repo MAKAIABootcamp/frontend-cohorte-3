@@ -96,6 +96,7 @@
     2. `useMemo()`
     3. `React.Memo()`
 3. [Repositorio de ¿cómo trabajar con enrutamientos dinámicos?](https://github.com/MAKAIABootcamp/frontend-cohorte-3/tree/main/sprint-2/ejercicio-sesion22)
+4. [Repositorio del ejercicio de memoización](https://github.com/hispanos/memoization-test)
 ## Material de apoyo 🐱‍👓
 1. [Documentación de Reactjs -Español](https://es.reactjs.org/docs/getting-started.html)
 2. [Documentación de Reactjs -English](https://reactjs.org/docs/getting-started.html)
