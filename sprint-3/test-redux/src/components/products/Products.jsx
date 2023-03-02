@@ -7,10 +7,11 @@ import ProductForm from "./ProductForm";
 const Products = () => {
   const dispatch = useDispatch();
 
-    const [showForm, setShowForm] = useState(false);
-    const [dataEdit, setDataEdit]=useState({})
+  const [showForm, setShowForm] = useState(false);
+  const [dataEdit, setDataEdit] = useState({});
 
   const products = useSelector((store) => store.productReducer);
+  const { userAuth } = useSelector((store) => store.userReducer);
 
   const handleDelete = (idProduct) => {
     Swal.fire({
@@ -33,24 +34,26 @@ const Products = () => {
     });
   };
   const handleEdit = (product) => {
-      console.log(product);
-      setShowForm(true);
-      setDataEdit(product);
+    console.log(product);
+    setShowForm(true);
+    setDataEdit(product);
   };
 
   return (
     <div className="container-fluid">
       <h1>Productos</h1>
-      <button
-        className="btn btn-primary"
-        onClick={() => {
-            setShowForm(true);
+      {userAuth && userAuth.typeUser === "admin" && (
+        <button
+          className="btn btn-primary"
+          onClick={() => {
+            setShowForm(!showForm);
             setDataEdit({});
-        }}
-      >
-        Agregar Producto
-      </button>
-          {showForm && <ProductForm setShowForm={setShowForm} data={ dataEdit} />}
+          }}
+        >
+          {showForm ? "Esconder Formulario" : "Agregar Producto"}
+        </button>
+      )}
+      {showForm && <ProductForm setShowForm={setShowForm} data={dataEdit} />}
       <div className="table-responsive">
         <table className="table table-striped table-hover mt-4">
           <thead>
@@ -58,7 +61,7 @@ const Products = () => {
               <th>Nombre</th>
               <th>Precio</th>
               <th>Cantidad</th>
-              <th>Acciones</th>
+              {userAuth&&userAuth.typeUser === "admin" && <th>Acciones</th>}
             </tr>
           </thead>
           <tbody>
@@ -67,26 +70,30 @@ const Products = () => {
                 <td>{product.name}</td>
                 <td>{product.price}</td>
                 <td>{product.quantity}</td>
-                <td>
-                  <button
-                    className="btn btn-danger btn-sm p-0 me-1"
-                    onClick={() => {
-                      handleDelete(product.id);
-                    }}
-                  >
-                    <span className="material-symbols-outlined m-1">
-                      delete
-                    </span>
-                  </button>
-                  <button
-                    className="btn btn-warning btn-sm p-0"
-                    onClick={() => {
-                      handleEdit(product);
-                    }}
-                  >
-                    <span className="material-symbols-outlined m-1">edit</span>
-                  </button>
-                </td>
+                {userAuth?.typeUser === "admin" && (
+                  <td>
+                    <button
+                      className="btn btn-danger btn-sm p-0 me-1"
+                      onClick={() => {
+                        handleDelete(product.id);
+                      }}
+                    >
+                      <span className="material-symbols-outlined m-1">
+                        delete
+                      </span>
+                    </button>
+                    <button
+                      className="btn btn-warning btn-sm p-0"
+                      onClick={() => {
+                        handleEdit(product);
+                      }}
+                    >
+                      <span className="material-symbols-outlined m-1">
+                        edit
+                      </span>
+                    </button>
+                  </td>
+                )}
               </tr>
             ))}
           </tbody>

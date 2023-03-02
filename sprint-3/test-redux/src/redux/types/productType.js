@@ -3,3 +3,8 @@ export const productType = {
   DELETE_PRODUCT: "DELETE_PRODUCT",
   UPDATE_PRODUCT: "UPDATE_PRODUCT"
 };
+
+export const userType = {
+  USER_LOGIN: "USER_LOGIN",
+  USER_LOGOUT: 'USER_LOGOUT'
+};
