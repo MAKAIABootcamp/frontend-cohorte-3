@@ -52,6 +52,7 @@
 2. ¿Cómo crear un proyecto en firebase?
 3. ¿Cómo implementar firebase en proyecto React-Redux?
 4. ¿Cómo activar el servicio de autenticación en firebase con el proveedor de email/password?
+5. [Repositorio ejercicio en clase](https://github.com/AngieValgie/clase-firebase)🐱‍👤
 ## Material de apoyo
 - [Documentación React Hook Form](https://react-hook-form.com/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
