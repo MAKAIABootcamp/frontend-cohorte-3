@@ -53,6 +53,14 @@
 3. ¿Cómo implementar firebase en proyecto React-Redux?
 4. ¿Cómo activar el servicio de autenticación en firebase con el proveedor de email/password?
 5. [Repositorio ejercicio en clase](https://github.com/AngieValgie/clase-firebase)🐱‍👤
+### Sesión 30 Firebase Auth Google & Facebook
+1. ¿Cómo activar Google y Facebook como los proveedores de autenticación en Firebase?
+2. ¿Cómo implementar inicio de sesión mediante una cuenta Google y Facebook en un proyecto React-Redux?
+3. [Repositorio ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
+### Sesión 40 Firestore
+1. ¿Cómo activar el servicio Firestore en un proyecto desde Firebase?
+2. ¿Cómo implementar Firestore en un proyecto React-Redux?
+3. [Repositorio ejercicio en clase](https://github.com/WilintonAscanio/firebase-toDo.git)
 ## Material de apoyo
 - [Documentación React Hook Form](https://react-hook-form.com/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
