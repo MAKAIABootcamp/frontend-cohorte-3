@@ -67,3 +67,4 @@
 - [Firebase](https://firebase.google.com/)
 ## Retos & Proyectos 🤖
 1. [Workshop 5](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/EaKuDfoYZcpHgEuNlb_LuU8Bkvi7oza6Wr6WdxbK6iXymQ?e=MfffTi)
+2. [Taller de Recuperación Sprint 1 y 2](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/EoryvdCHSUJAiwf9xW5jebQBBIv1CfcHyoi8IGAXVcIrtQ)
