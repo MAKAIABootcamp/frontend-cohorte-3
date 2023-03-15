@@ -57,7 +57,7 @@
 1. ¿Cómo activar Google y Facebook como los proveedores de autenticación en Firebase?
 2. ¿Cómo implementar inicio de sesión mediante una cuenta Google y Facebook en un proyecto React-Redux?
 3. [Repositorio ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
-### Sesión 40 Firestore
+### Sesión 31 Firestore
 1. ¿Cómo activar el servicio Firestore en un proyecto desde Firebase?
 2. ¿Cómo implementar Firestore en un proyecto React-Redux?
 3. [Repositorio ejercicio en clase](https://github.com/WilintonAscanio/firebase-toDo.git)
