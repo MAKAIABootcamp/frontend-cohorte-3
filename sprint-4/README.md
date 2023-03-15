@@ -20,7 +20,7 @@
 3. [Repositorio del ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
 ### Sesión 33 CRU Firestore Parte 3
 1. ¿Cómo actualizar y eliminar elementos de una colección en Firestore?
-2. 3. [Repositorio del ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
+2. [Repositorio del ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
 ## Proyecto 🤖
 [Proyecto de Sprint 4](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/Ec2nNyjgSbJNjOHGDMSiBNQBN6FQJkNSWwL9eYwe-jCDmw?e=cTemIo)
 ## Material de apoyo 🐱‍💻
