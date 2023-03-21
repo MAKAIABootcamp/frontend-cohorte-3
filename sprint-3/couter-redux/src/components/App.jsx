@@ -4,6 +4,7 @@ import {
   decrementAction,
   incrementAction,
 } from "../redux/actions/counterActions";
+import "./app.css";
 
 const App = () => {
   const dispatch = useDispatch();
@@ -21,9 +22,13 @@ const App = () => {
   };
   return (
     <div>
-      <button onClick={onDecrement}>-</button>
+      <button onClick={onDecrement}>
+        <span className="material-symbols-outlined btn">remove</span>
+      </button>
       <span>{counter}</span>
-      <button onClick={onIncrement}>+</button>
+      <button onClick={onIncrement}>
+        <span className="material-symbols-outlined btn">add</span>
+      </button>
     </div>
   );
 };
