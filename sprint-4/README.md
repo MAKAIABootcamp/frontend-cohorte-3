@@ -22,7 +22,8 @@
 1. ¿Cómo actualizar y eliminar elementos de una colección en Firestore?
 2. [Repositorio del ejercicio en clase](https://github.com/Esteark/demologin-google-facebook)
 ## Proyecto 🤖
-[Proyecto de Sprint 4](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/Ec2nNyjgSbJNjOHGDMSiBNQBN6FQJkNSWwL9eYwe-jCDmw?e=cTemIo)
+1. [Proyecto de Sprint 4](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/Ec2nNyjgSbJNjOHGDMSiBNQBN6FQJkNSWwL9eYwe-jCDmw?e=cTemIo): Entrega 4 de abril y sustentación 5 de abril 2023.
+2. [Workshop 6](https://makaia-my.sharepoint.com/:b:/g/personal/mentoria_bootcamp_makaia_org/ESmwFsh6fy9Ih2OViMM6D18BByytDsIheYOsYLTd3mQ7Pg): Entrega y sustentación Lunes 27 de marzo 
 ## Material de apoyo 🐱‍💻
 1. [Documentación de Firebase](https://firebase.google.com/docs?hl=es-419)
 2. [Documentación de Redux](https://es.redux.js.org/)
