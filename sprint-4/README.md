@@ -27,3 +27,4 @@
 ## Material de apoyo 🐱‍💻
 1. [Documentación de Firebase](https://firebase.google.com/docs?hl=es-419)
 2. [Documentación de Redux](https://es.redux.js.org/)
+3. [Curso de testing y pruebas unitarias Softka](https://makaia-my.sharepoint.com/:f:/g/personal/mentoria_bootcamp_makaia_org/EnOgZg4UmAdKlKUMbAQkn64BOqj1KJEU2oGCKpTeZOx1cg?e=0UZs9G)
